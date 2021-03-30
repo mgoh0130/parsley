@@ -1,5 +1,4 @@
 # parsley
-***PLEASE EMAIL ME AT michelle.goh@yale.edu IF YOU WOULD LIKE TO SEE MY CODE FOR THIS***
 
 Write a bash command-line parser "parsley" that prompts for and
 reads lines from stdin, breaks the lines into tokens, parses the tokens into a
